@@ -1,6 +1,6 @@
 package com.narxoz.rpg.arena;
 
-public class ArenaOpponent {
+public class ArenaOpponent{
     private final String name;
     private int health;
     private final int maxHealth;

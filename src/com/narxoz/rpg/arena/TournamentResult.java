@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class TournamentResult {
+public class TournamentResult{
     private String winner;
     private int rounds;
     private final List<String> log = new ArrayList<>();
